@@ -1,13 +1,16 @@
-## Hi there 👋
 
 <h1 align="center">Hi there, I'm CodeKyna 👩‍💻</h1>
 <p align="center">
   Software Engineering Undergraduate @SLIIT 🎓 | Ex-Medical Student 🩺  
   <br>
   💡 Passionate about Web Dev, Game Dev, and AI in Healthcare
-  🧑‍💻 Software Engineering Undergraduate at SLIIT | Ex-Medical Student   
-  🌐 Experienced with React, Node.js, NestJS, MongoDB, Docker, and Kubernetes  
-  🎯 Seeking internship opportunities in Full-Stack Development or AI Projects  
+  <br>
+  🧑‍💻 Software Engineering Undergraduate at SLIIT | Ex-Medical Student
+  <br>
+  🌐 Experienced with React, Node.js, NestJS, MongoDB, Docker
+  <br>
+  🎯 Seeking internship opportunities in Full-Stack Development or AI Projects
+  <br>
 </p>
 
 ---
