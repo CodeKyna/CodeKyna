@@ -5,8 +5,6 @@
   <br>
   💡 Passionate about Web Dev, Game Dev, and AI in Healthcare
   <br>
-  🧑‍💻 Software Engineering Undergraduate at SLIIT | Ex-Medical Student
-  <br>
   🌐 Experienced with React, Node.js, NestJS, MongoDB, Docker
   <br>
   🎯 Seeking internship opportunities in Full-Stack Development or AI Projects
