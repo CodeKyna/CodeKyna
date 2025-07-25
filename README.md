@@ -30,7 +30,7 @@
 
 ### 🧠 Checkout my portfolio
  <a href="https://www.kanch.me/" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/004/467/266/non_2x/portfolio-sketch-neon-icon-simple-thin-line-outline-of-education-icons-for-ui-and-ux-website-or-mobile-application-isolated-on-brick-wall-vector.jpg"/>
+      <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 ---
 
