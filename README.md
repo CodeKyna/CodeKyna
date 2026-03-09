@@ -1,125 +1,206 @@
+<!-- ============================================================
+     CODEKYNA :: SYSTEM README v2.0.5
+     Authored by: Kanchana | SLIIT Engineering Division
+     ============================================================ -->
+
 <div align="center">
 
-<!-- Animated Header with Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+CodeKyna+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Ex-Med+%F0%9F%A9%BA+%E2%9E%A1%EF%B8%8F+Full-Stack+Dev+%F0%9F%9A%80;Building+cool+things+with+code+%E2%9C%A8)](https://git.io/typing-svg)
+```
+█▀▀ █▀█ █▀▄ █▀▀ █▄▀ █▄█ █▄ █ ▄▀█
+█▄▄ █▄█ █▄▀ ██▄ █ █  █  █ ▀█ █▀█
+```
 
-<!-- Colorful Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- Badges Row -->
-![Profile Views](https://komarev.com/ghpvc/?username=CodeKyna&color=ff6b9d&style=for-the-badge&label=PROFILE+VIEWS)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kanch.me-FF6B9D?style=for-the-badge)](https://www.kanch.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kanchana-k90yna1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=620&height=110&lines=%5BBOOT%5D+Initializing+developer+environment...;%5BLOAD%5D+Mounting+%2Fskills%2Ffullstack+...+%E2%9C%93+OK;%5BLOAD%5D+Mounting+%2Fskills%2Fgamedev+...+%E2%9C%93+OK;%5BLOAD%5D+Importing+prior_life%3A+medicine+...+%E2%9C%93+UNIQUE;%5BREADY%5D+CodeKyna+is+now+online.+Welcome.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌈 About Me
+```bash
+$ whoami
+```
 
-```yaml
-name: Kanchana (CodeKyna)
-location: Sri Lanka 🇱🇰
-education: Software Engineering @ SLIIT 🎓
-background: Ex-Medical Student → turned Developer 🩺➡️💻
-current_focus:
-  - Full-Stack Web Development
-  - Game Development with Unity 🎮
-  - AI in Healthcare 🏥🤖
-seeking: Internship in Full-Stack Dev or AI Projects
-motto: "Code with curiosity. Build with purpose." 🚀
+```
+╔══════════════════════════════════════════════════════════════╗
+║  PROCESS   :  CodeKyna (Kanchana)                            ║
+║  BUILD     :  Software Engineering Undergraduate @ SLIIT     ║
+║  PREV VER  :  Medical Student v1.0 🩺  →  Dev v2.0 💻        ║
+║  REGION    :  Sri Lanka  🇱🇰                                  ║
+║  STATUS    :  [ ██████████████████░░ ]  97% operational       ║
+║  UPTIME    :  Seeking internship · Full-Stack | AI           ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🔧 Tech Stack & Tools
+```bash
+$ cat /etc/os-release
+```
+
+```
+OS Name       :  KynOS 2.0 (Medic-to-Engineer Edition)
+Kernel        :  curiosity-6.4.2-lts
+Shell         :  /bin/zsh (coffee-powered)
+Display Server:  Web · Games · AI
+Init System   :  systemd (motivation daemon active)
+Runlevel      :  5 (full graphical + backend services)
+```
+
+---
+
+```bash
+$ systemctl list-units --type=skill --state=active
+```
+
+```
+UNIT                          LOAD    ACTIVE   DESCRIPTION
+──────────────────────────────────────────────────────────────────
+frontend.service             loaded  active   React · TypeScript
+backend.service              loaded  active   Node · NestJS · Express
+database.service             loaded  active   MongoDB
+devops.service               loaded  active   Docker · Kubernetes
+gamedev.service              loaded  active   Unity · C#
+ai-research.service          loaded  active   AI in Healthcare 🏥
+──────────────────────────────────────────────────────────────────
+6 units loaded. 0 degraded. All systems nominal.
+```
+
+---
+
+```bash
+$ lscpu   # currently compiling...
+```
+
+```
+Architecture     :  Full-Stack
+Cores            :  Frontend + Backend + DevOps + GameDev
+Threads          :  Running multiple side-projects simultaneously
+Cache L1         :  TypeScript, React patterns
+Cache L2         :  NestJS, MongoDB aggregation pipelines
+Cache L3         :  Docker orchestration, Kubernetes manifests
+Clockspeed       :  Faster after 11 PM ⚡
+Thermal Throttle :  Only during exams
+```
+
+---
+
+```bash
+$ ls -la /stack
+```
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**[ FRONTEND ]**
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-### 🗄️ Database & DevOps
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**[ BACKEND ]**
 
-### 🎮 Game Dev
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**[ DATABASE & DEVOPS ]**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**[ GAME ENGINE ]**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+```bash
+$ journalctl --follow   # live learning log
+```
 
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/🤖_Machine_Learning-In_Progress-FFB347?style=for-the-badge)
-![AI in Healthcare](https://img.shields.io/badge/🏥_AI_Healthcare-Exploring-FF6B9D?style=for-the-badge)
-![Cloud Deployment](https://img.shields.io/badge/☁️_Cloud_Deployment-Leveling_Up-87CEEB?style=for-the-badge)
-
-</div>
-
----
-
-## 🎉 Fun Facts About Me
-
-- 🩺 I studied medicine before switching to software engineering — yes, really!
-- 🎮 I build games in Unity just for fun
-- ☕ Best code is written after coffee (obviously)
-- 🧩 I love connecting healthcare problems with tech solutions
-- 🌙 Most productive after midnight (night owl dev life)
+```
+Mar 2026  [INFO]   Exploring ML model integration in clinical workflows
+Mar 2026  [INFO]   Deep-diving into cloud-native deployment patterns
+Mar 2026  [INFO]   Building AI-assisted diagnostic tools (side project)
+Mar 2026  [WARN]   Coffee reserves running low — replenishing...
+Mar 2026  [INFO]   Coffee reserves restored. Resuming compilation.
+```
 
 ---
 
-## 📊 GitHub Stats
+```bash
+$ git log --oneline --graph   # life commits
+```
+
+```
+* f9a33d1  🩺 FEAT: completed medical studies, pivoted to CS
+* 3bc72e0  🎓 INIT: enrolled @ SLIIT Software Engineering
+* 7e1a905  💡 FEAT: discovered passion for web development
+* 9d84c21  🎮 FEAT: shipped first Unity game prototype
+* 2fa8801  🤖 EXPLORE: started AI in Healthcare research
+* 01de4f7  🚀 CURRENT: seeking internship, building cool things
+```
+
+---
+
+```bash
+$ htop   # resource monitor
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeKyna&show_icons=true&theme=radical&border_radius=15&hide_border=false&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKyna&layout=compact&theme=radical&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CodeKyna&show_icons=true&theme=chartreuse-dark&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&text_color=cccccc&icon_color=00FF41&border_radius=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKyna&layout=compact&theme=chartreuse-dark&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&text_color=cccccc&border_radius=6" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKyna&theme=radical&border_radius=15" width="500"/>
-
-<br/>
-
-[![CodeKyna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeKyna&theme=redical&border_radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKyna&theme=dark&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41&sideLabels=cccccc&dates=888888&border_radius=6" width="500"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+```bash
+$ ping portfolio.kanch.me
+```
+
+```
+PING kanch.me (portfolio) 56 bytes of data.
+64 bytes: icmp_seq=1 ttl=64 time=<1ms   ✓ ALIVE
+Reply from kanch.me: All projects deployed and responsive.
+```
+
+[![Portfolio](https://img.shields.io/badge/→_Open_Portfolio-kanch.me-00FF41?style=for-the-badge&logo=firefox&logoColor=white)](https://www.kanch.me/)
+
+---
+
+```bash
+$ netstat -connect --human
+```
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeKyna&theme=radical&row=1&column=6&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/kanchana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchana-k90yna1)
+[![Email](https://img.shields.io/badge/SMTP-kanch.prabath@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanch.prabath@gmail.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=CodeKyna&color=00FF41&style=for-the-badge&label=CONNECTIONS+ESTABLISHED)
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+```bash
+$ shutdown --quote-of-the-day
+```
 
-<div align="center">
+```
+> "Code with curiosity. Build with purpose."
+                                    — CodeKyna
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanchana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchana-k90yna1)
-[![Email](https://img.shields.io/badge/Email-kanch.prabath@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanch.prabath@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kanch.me-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white)](https://www.kanch.me/)
+[  OK  ] Reached target Shutdown.
+[  OK  ] All processes terminated cleanly.
+         See you in the next commit. 🚀
+```
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-_✨ "Code with curiosity. Build with purpose." 🚀_
-
-</div>
+<!-- EOF -->
