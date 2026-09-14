@@ -1,70 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,50:3813C2,100:00C9FF&height=200&section=header&text=Hey%2C%20I'm%20CodeKyna%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Ex-Med%20%F0%9F%A9%BA%20%E2%86%92%20Full-Stack%20Dev%20%7C%20Game%20Dev%20%7C%20AI%20Explorer&descAlignY=58&descSize=16&descColor=e0d7ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7F5AF0,100:FF2E97&height=220&section=header&text=CodeKyna.exe&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Ex-Med%20%F0%9F%A9%BA%20%E2%86%92%20Full-Stack%20Dev%20%7C%20Game%20Dev%20%7C%20AI%20Explorer&descAlignY=58&descSize=17&descColor=e6f9ff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%3E+booting+full-stack+systems...;%3E+turning+medical+knowledge+into+AI+%F0%9F%A4%96;%3E+shipping+games+%2C+apps+%26+dreams+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-kanch.me-0A0A0F?style=for-the-badge&labelColor=00F0FF&color=0A0A0F)](https://www.kanch.me/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A0A0F)](https://linkedin.com/in/kanchana-k90yna1)
+[![Email](https://img.shields.io/badge/EMAIL-Say_Hi-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF2E97&labelColor=0A0A0F)](mailto:kanch.prabath@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7F5AF0,100:FF2E97&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+beautiful+things+for+the+web+%F0%9F%8C%90;Turning+medical+knowledge+into+AI+magic+%F0%9F%A4%96;Shipping+games+%2C+apps+%26+dreams+%F0%9F%9A%80)](https://git.io/typing-svg)
+## `01` &nbsp; SYSTEM.PROFILE
 
 </div>
 
----
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:16px; box-shadow: 0 0 20px #00F0FF;"/>
 
-<div align="center">
-
-## 🌸 &nbsp; A B O U T &nbsp; M E &nbsp; 🌸
-
-</div>
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:20px"/>
-
-```swift
-struct CodeKyna {
-    let name       = "Kanchana"
-    let handle     = "@CodeKyna"
-    let degree     = "Software Engineering @ SLIIT 🎓"
-    let chapter1   = "Medical Student 🩺"   // discontinued
-    let chapter2   = "Full-Stack Dev 💻"    // current
-    let passions   = ["Web Dev", "Game Dev", "AI × Healthcare"]
-    let lookingFor = "Internship · Full-Stack or AI 🚀"
-    let superpower = "I know why the patient app crashes 😏"
+```typescript
+interface Developer {
+  name: "Kanchana Prabath";
+  alias: "@CodeKyna";
+  origin: "Sri Lanka 🇱🇰";
+  education: "B.Sc. Software Engineering @ SLIIT 🎓";
+  timeline: {
+    v1: "Medical Student 🩺  [deprecated]";
+    v2: "Full-Stack Developer 💻  [current]";
+  };
+  passions: ["Web Dev", "Game Dev", "AI × Healthcare"];
+  status: "Seeking Internship — Full-Stack / AI 🚀";
+  easterEgg: "Knows exactly why the patient portal keeps crashing 😏";
 }
 ```
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7F5AF0,100:FF2E97&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-## 💜 &nbsp; T E C H &nbsp; S T A C K &nbsp; 💜
+## `02` &nbsp; TECH.STACK
 
 <br/>
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0A0A0F?style=for-the-badge&logo=react&logoColor=00F0FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0F?style=for-the-badge&logo=typescript&logoColor=00F0FF)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0F?style=for-the-badge&logo=nodedotjs&logoColor=7F5AF0)
+![NestJS](https://img.shields.io/badge/NestJS-0A0A0F?style=for-the-badge&logo=nestjs&logoColor=7F5AF0)
+![Express](https://img.shields.io/badge/Express-0A0A0F?style=for-the-badge&logo=express&logoColor=7F5AF0)
+
+**Data & Infra**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0F?style=for-the-badge&logo=mongodb&logoColor=FF2E97)
+![Docker](https://img.shields.io/badge/Docker-0A0A0F?style=for-the-badge&logo=docker&logoColor=FF2E97)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0F?style=for-the-badge&logo=kubernetes&logoColor=FF2E97)
+
+**Game Dev**
+
+![Unity](https://img.shields.io/badge/Unity-0A0A0F?style=for-the-badge&logo=unity&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-0A0A0F?style=for-the-badge&logo=csharp&logoColor=ffffff)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7F5AF0,100:FF2E97&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-## 🔮 &nbsp; C U R R E N T L Y &nbsp; 🔮
+## `03` &nbsp; ACTIVE.PROCESSES
 
-</div>
+<br/>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="33%">
 
@@ -76,7 +92,7 @@ struct CodeKyna {
 </td>
 <td align="center" width="33%">
 
-### 🛠️ Building
+### ⚡ Building
 `AI Healthcare Tools`<br/>
 `Unity Game Projects`<br/>
 `Full-Stack Web Apps`
@@ -84,23 +100,60 @@ struct CodeKyna {
 </td>
 <td align="center" width="33%">
 
-### 🎯 Goal
+### 🎯 Targeting
 `Land an Internship`<br/>
 `Ship 3 Projects`<br/>
-`Never stop learning`
+`Never Stop Learning`
 
 </td>
 </tr>
 </table>
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7F5AF0,100:FF2E97&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-## ✨ &nbsp; F U N &nbsp; F A C T S &nbsp; ✨
+## `04` &nbsp; GITHUB.STATS
 
-| 🩺 | Once studied medicine — now I diagnose broken APIs |
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodeKyna&show_icons=true&theme=synthwave&border_radius=14&hide_border=true&count_private=true&bg_color=0D1117" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKyna&layout=compact&theme=synthwave&border_radius=14&hide_border=true&bg_color=0D1117" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKyna&background=0D1117&ring=00F0FF&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=E6F9FF&dates=7F5AF0&border=00F0FF&hide_border=true&border_radius=14" width="500"/>
+
+<br/><br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeKyna&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<details>
+<summary align="center"><b>⚡ Optional: live contribution snake</b></summary>
+<br/>
+
+Add a [contribution snake](https://github.com/Platane/snk) that eats your commit graph — it's generated by a small GitHub Action in your own `CodeKyna/CodeKyna` repo, then embedded here:
+
+```markdown
+![snake gif](https://raw.githubusercontent.com/CodeKyna/CodeKyna/output/github-contribution-grid-snake-dark.svg)
+```
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7F5AF0,100:FF2E97&height=3&section=header" width="100%"/>
+
+<div align="center">
+
+## `05` &nbsp; FUN.LOG
+
+| | |
 |:---:|:---|
+| 🩺 | Once studied medicine — now I diagnose broken APIs |
 | 🎮 | I build Unity games as a creative outlet |
 | ☕ | Productivity peaks at 11 PM with coffee |
 | 🌏 | Dream: build tech that transforms healthcare in Sri Lanka |
@@ -108,46 +161,10 @@ struct CodeKyna {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7F5AF0,100:00F0FF&height=150&section=footer&text=Code%20with%20curiosity.%20Build%20with%20purpose.%20%F0%9F%9A%80&fontSize=15&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-## 📊 &nbsp; G I T H U B &nbsp; S T A T S &nbsp; 📊
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=CodeKyna&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&count_private=true&bg_color=0d1117" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKyna&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKyna&theme=tokyonight&hide_border=true&background=0d1117&border_radius=12" width="500"/>
-
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeKyna&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 &nbsp; L E T ' S &nbsp; C O N N E C T &nbsp; 🌐
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-kanch.me-FF6FD8?style=for-the-badge)](https://www.kanch.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchana-k90yna1)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanch.prabath@gmail.com)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=CodeKyna&color=FF6FD8&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:3813C2,100:FF6FD8&height=120&section=footer&text=Code%20with%20curiosity.%20Build%20with%20purpose.%20%F0%9F%9A%80&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+![Visitors](https://komarev.com/ghpvc/?username=CodeKyna&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
