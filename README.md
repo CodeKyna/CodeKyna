@@ -10,7 +10,7 @@
 
 <br/>
 
-Software Engineering student at SLIIT who started out in medicine and switched into full-stack development. These days I split my time between web apps, Unity game projects, and figuring out where AI genuinely helps healthcare rather than just decorating it. Currently looking for a full-stack or AI-focused internship.
+Software Engineering student at SLIIT who started out in medicine and switched into full-stack development. These days I split my time between web apps, Unity game projects, and figuring out where AI genuinely helps healthcare rather than just decorating it. Currently looking for a full-stack or AI-focused opportunity .
 
 ---
 
