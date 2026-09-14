@@ -142,6 +142,8 @@ Add a [contribution snake](https://github.com/Platane/snk) that eats your commit
 ```markdown
 ![snake gif](https://raw.githubusercontent.com/CodeKyna/CodeKyna/output/github-contribution-grid-snake-dark.svg)
 ```
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.5.0
 
 </details>
 
